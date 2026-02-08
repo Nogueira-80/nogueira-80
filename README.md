@@ -2,7 +2,7 @@
 
 **`Aprendiz para Front-End`**
 
-Olá! Me chamo **Gabriel Nogueira**, sou estudante no **Colégio Estadual João de Faria Pioli**, em **Maringá - Paraná**, e estou cursando **LINS**.  
+Olá! Me chamo **Gabriel Nogueira**, sou estudante no **Colégio Estadual João de Faria Pioli**, em **Maringá - Paraná**,.  
 Sou apaixonado por tecnologia e estou dando meus primeiros passos no desenvolvimento web, aprendendo a criar sites modernos e interativos.  
 Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia como futuro desenvolvedor front-end. 🚀  
 
