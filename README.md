@@ -1,4 +1,4 @@
-# 👨 Gabriel Nogueira
+# Gabriel Nogueira
 
 **`Aprendiz para Front-End`**
 
