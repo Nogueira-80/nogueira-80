@@ -60,31 +60,20 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
+    alt="React"
+    title="React" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="40px" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
 
 ---
 
