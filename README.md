@@ -74,15 +74,3 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
----
-
-
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nogueira-80&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
-  />
-</p>
