@@ -6,31 +6,32 @@ Olá! Me chamo **Gabriel Nogueira**, sou estudante no **Colégio Estadual João 
 Sou apaixonado por tecnologia e estou dando meus primeiros passos no desenvolvimento web, aprendendo a criar sites modernos e interativos.  
 Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia como futuro desenvolvedor front-end. 🚀  
 
-<p align="left">
-    <a href="https://github.com/Nogueira-80">
-        <img 
-            alt="GitHub Followers" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Nogueira-80?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="left"> 
+  <a href="https://github.com/Nogueira-80"> 
+    <img 
+      alt="GitHub Followers" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Nogueira-80?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
+    /> 
+  </a> 
 
-    <a href="https://github.com/Nogueira-80?tab=repositories&sort=stargazers">
-        <img 
-            alt="GitHub Stars" 
-            title="Total de estrelas no GitHub" 
-            src="https://img.shields.io/badge/⭐_Estrelas-62-55960c?style=for-the-badge&labelColor=488207"
-        />
-    </a>
+  <a href="https://github.com/Nogueira-80?tab=repositories&sort=stargazers"> 
+    <img 
+      alt="GitHub Stars" 
+      title="Total de estrelas no GitHub" 
+      src="https://img.shields.io/badge/Estrelas-62-55960c?style=for-the-badge&labelColor=488207" 
+    /> 
+  </a> 
 
-    <a href="https://instagram.com/SEU_USUARIO">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+  <a href="https://instagram.com/SEU_USUARIO">
+    <img 
+      alt="Instagram" 
+      title="Me siga no Instagram" 
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+    /> 
+  </a> 
 </p>
+
 ---
 
 ### 🧠 Linguagens e Tecnologias
