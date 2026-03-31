@@ -14,13 +14,16 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
             src="https://custom-icon-badges.demolab.com/github/followers/Nogueira-80?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
     <a href="https://github.com/Nogueira-80?tab=repositories&sort=stargazers">
-        <img src="https://img.icons8.com/fluency/48/star.png" width="20"/> 
-<img 
-    alt="GitHub Stars" 
-    title="Total de estrelas no GitHub" 
-    src="https://img.shields.io/badge/Estrelas-58-55960c?style=for-the-badge&labelColor=488207&logo=star"
-/>
+        <img 
+            alt="GitHub Stars" 
+            title="Total de estrelas no GitHub" 
+            src="https://img.shields.io/badge/Estrelas-62-55960c?style=for-the-badge&labelColor=488207&logo=star"
+        />
+    </a>
+
+    <a href="https://instagram.com/SEU_USUARIO">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
