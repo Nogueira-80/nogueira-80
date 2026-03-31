@@ -19,7 +19,7 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
         <img 
             alt="GitHub Stars" 
             title="Total de estrelas no GitHub" 
-            src="https://img.shields.io/badge/Estrelas-62-55960c?style=for-the-badge&labelColor=488207&logo=star"
+            src="https://img.shields.io/badge/Estrelas-62-55960c?style=for-the-badge&labelColor=488207&logo=star&logoColor=white"
         />
     </a>
 
@@ -31,7 +31,6 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
         />
     </a>
 </p>
-
 ---
 
 ### 🧠 Linguagens e Tecnologias
