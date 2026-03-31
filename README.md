@@ -19,7 +19,7 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
 <img 
     alt="GitHub Stars" 
     title="Total de estrelas no GitHub" 
-    src="https://img.shields.io/badge/⭐_Estrelas-58-55960c?style=for-the-badge&labelColor=488207"
+    src="https://img.shields.io/badge/Estrelas-58-55960c?style=for-the-badge&labelColor=488207&logo=github&logoColor=white"
 />
     </a>
     <a href="https://www.instagram.com/nogueira_80_/?next=%2F">
