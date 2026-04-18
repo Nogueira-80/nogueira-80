@@ -8,10 +8,10 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
 
 <p align="left"> 
   <a href="https://github.com/Nogueira-80"> 
-    <img 
+     <img 
   alt="GitHub Followers" 
   title="Me siga no GitHub" 
-  src="https://img.shields.io/badge/Seguidores-9-236ad3?style=for-the-badge&logo=github&logoColor=white" 
+  src="https://custom-icon-badges.demolab.com/github/followers/Nogueira-80?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
 />
   </a> 
 
