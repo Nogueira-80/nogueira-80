@@ -17,10 +17,10 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
 
   <a href="https://github.com/Nogueira-80?tab=repositories&sort=stargazers"> 
     <img 
-      alt="GitHub Stars" 
-      title="Total de estrelas no GitHub" 
-      src="https://img.shields.io/badge/Estrelas-63-55960c?style=for-the-badge&labelColor=488207" 
-    /> 
+  alt="GitHub Followers" 
+  title="Me siga no GitHub" 
+  src="https://custom-icon-badges.demolab.com/badge/Seguidores-9-236ad3?style=for-the-badge&logo=github&logoColor=white" 
+/> 
   </a> 
 
   <a href="https://instagram.com/SEU_USUARIO">
