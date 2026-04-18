@@ -11,12 +11,15 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
      <img 
   alt="GitHub Followers" 
   title="Me siga no GitHub" 
-  src="https://custom-icon-badges.demolab.com/github/followers/Nogueira-80?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" 
+  src="https://custom-icon-badges.demolab.com/badge/9-236ad3?label=Seguidores&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white" 
 />
   </a> 
 
   <a href="https://github.com/Nogueira-80?tab=repositories&sort=stargazers"> 
-    <img alt="GitHub Stars" title="Total de estrelas no GitHub" src="https://img.shields.io/badge/Estrelas-63-55960c?style=for-the-badge&labelColor=488207" />
+    <img 
+      alt="GitHub Stars" 
+      title="Total de estrelas no GitHub" 
+      src="https://img.shields.io/badge/Estrelas-63-55960c?style=for-the-badge&labelColor=488207" />
   </a> 
 
   <a href="https://instagram.com/SEU_USUARIO">
