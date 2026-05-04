@@ -11,7 +11,7 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
      <img 
   alt="GitHub Followers" 
   title="Me siga no GitHub" 
-  src="https://custom-icon-badges.demolab.com/badge/9-236ad3?label=Seguidores&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white" 
+  src="https://custom-icon-badges.demolab.com/badge/10-236ad3?label=Seguidores&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white" 
 />
   </a> 
 
