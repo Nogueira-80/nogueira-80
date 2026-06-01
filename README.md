@@ -19,7 +19,7 @@ Gosto de explorar novas linguagens e compartilhar o que aprendo no meu dia a dia
     <img 
       alt="GitHub Stars" 
       title="Total de estrelas no GitHub" 
-      src="https://img.shields.io/badge/Estrelas-69-55960c?style=for-the-badge&labelColor=488207" />
+      src="https://img.shields.io/badge/Estrelas-70-55960c?style=for-the-badge&labelColor=488207" />
   </a> 
 
   <a href="https://instagram.com/SEU_USUARIO">
